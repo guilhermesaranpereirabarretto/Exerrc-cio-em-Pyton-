@@ -1,2 +1,2 @@
-# Exerrc-cio-em-Pyton-
+# Exercicio-em-Pyton-
 Somando dois numeros usando .format
